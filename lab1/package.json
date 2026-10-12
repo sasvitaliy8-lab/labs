@@ -1,0 +1,17 @@
+{
+  "name": "lab-basics",
+  "version": "1.0.0",
+  "description": "Лабораторна робота: скалярні типи, посилання, типи даних",
+  "main": "1-inc.js",
+  "scripts": {
+    "inc": "node 1-inc.js",
+    "types": "node 2-types.js",
+    "lint": "eslint ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "@eslint/js": "^9.0.0",
+    "globals": "^15.0.0"
+  }
+}
